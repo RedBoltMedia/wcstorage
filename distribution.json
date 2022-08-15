@@ -351,19 +351,6 @@
           ]
         },
         {
-          "id": "de.nekeras.borderless:borderlesswindow:1.16.5-1.2.1@jar",
-          "name": "Borderless Window",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 48086,
-            "url": "https://redboltmedia.github.io/wcstorage/servers/WitcherCraft-1.16.5/forgemods/optionalon/BorderlessWindow-1.16.5-1.2.1.jar",
-            "MD5": "9cc6ee315de1ca4dbc6a3b2a0e329b12"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
           "id": "com.mrcrayfish:configured:1.5.2@jar",
           "name": "Configured",
           "type": "ForgeMod",
