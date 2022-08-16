@@ -537,9 +537,9 @@
           "name": "WitcherCraft x Conquest.zip",
           "type": "File",
           "artifact": {
-            "size": 93581299,
+            "size": 86394718,
             "url": "https://redboltmedia.github.io/wcstorage/servers/WitcherCraft-1.16.5/files/resourcepacks/WitcherCraft%20x%20Conquest.zip",
-            "MD5": "f6e5f5a8f5c7178df3a581683c9deb50",
+            "MD5": "e5f37b36750348b49832b97016ab41ed",
             "path": "resourcepacks/WitcherCraft x Conquest.zip"
           }
         },
@@ -621,14 +621,14 @@
           }
         },
         {
-          "id": "SEUS-Renewed-v1.0.1 (2).zip",
-          "name": "SEUS-Renewed-v1.0.1 (2).zip",
+          "id": "SEUS-Renewed-v1.0.1.zip",
+          "name": "SEUS-Renewed-v1.0.1.zip",
           "type": "File",
           "artifact": {
             "size": 7062638,
-            "url": "https://redboltmedia.github.io/wcstorage/servers/WitcherCraft-1.16.5/files/shaderpacks/SEUS-Renewed-v1.0.1%20(2).zip",
+            "url": "https://redboltmedia.github.io/wcstorage/servers/WitcherCraft-1.16.5/files/shaderpacks/SEUS-Renewed-v1.0.1.zip",
             "MD5": "8faeb04d9953c9b10b0794acafc4c1aa",
-            "path": "shaderpacks/SEUS-Renewed-v1.0.1 (2).zip"
+            "path": "shaderpacks/SEUS-Renewed-v1.0.1.zip"
           }
         },
         {
