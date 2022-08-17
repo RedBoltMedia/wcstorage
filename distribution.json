@@ -475,9 +475,9 @@
           "name": "WitcherCraft",
           "type": "ForgeMod",
           "artifact": {
-            "size": 5061708,
-            "url": "https://redboltmedia.github.io/wcstorage/servers/WitcherCraft-1.16.5/forgemods/required/WitcherCraft%201.16.5.jar",
-            "MD5": "2d1c3da6edc15bb6cdf139c99195bd53"
+            "size": 5061816,
+            "url": "https://redboltmedia.github.io/wcstorage/servers/WitcherCraft-1.16.5/forgemods/required/WitcherCraft-1.16.5.jar",
+            "MD5": "745ff4505bf4c0b6755737cbb0ae34d3"
           }
         },
         {
