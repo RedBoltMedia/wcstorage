@@ -475,9 +475,9 @@
           "name": "Witchercraft paint",
           "type": "ForgeMod",
           "artifact": {
-            "size": 2031025,
+            "size": 2042059,
             "url": "https://redboltmedia.github.io/wcstorage/servers/WitcherCraft-1.16.5/forgemods/required/wcconfig.jar",
-            "MD5": "5a06831ac0cfd192bd1223bea3da2173"
+            "MD5": "52a94cd8ec05080e71409849995057dd"
           }
         },
         {
