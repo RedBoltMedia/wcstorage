@@ -481,6 +481,16 @@
           }
         },
         {
+          "id": "com.sk89q:worldedit:7.2.5+57d5ac9@jar",
+          "name": "WorldEdit",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 5312767,
+            "url": "https://redboltmedia.github.io/wcstorage/servers/WitcherCraft-1.16.5/forgemods/required/weconfig.jar",
+            "MD5": "96ff53c70d4a3ff9df5592462b0f0685"
+          }
+        },
+        {
           "id": "net.mcreator:witchercraft:1.0.1@jar",
           "name": "WitcherCraft",
           "type": "ForgeMod",
