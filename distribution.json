@@ -475,9 +475,9 @@
           "name": "Witchercraft paint",
           "type": "ForgeMod",
           "artifact": {
-            "size": 2042059,
+            "size": 2056179,
             "url": "https://redboltmedia.github.io/wcstorage/servers/WitcherCraft-1.16.5/forgemods/required/wcconfig.jar",
-            "MD5": "52a94cd8ec05080e71409849995057dd"
+            "MD5": "5d12a21b5dd0434da0148253be4b679c"
           }
         },
         {
@@ -486,7 +486,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 5312767,
-            "url": "https://redboltmedia.github.io/wcstorage/servers/WitcherCraft-1.16.5/forgemods/required/weconfig.jar",
+            "url": "https://redboltmedia.github.io/wcstorage/servers/WitcherCraft-1.16.5/forgemods/required/weditconfig.jar",
             "MD5": "96ff53c70d4a3ff9df5592462b0f0685"
           }
         },
